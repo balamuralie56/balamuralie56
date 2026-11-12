@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Balamurali 👋
 
-<!--
-**balamuralie56/balamuralie56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack AI Developer building edge AI and multi-agent systems — from object detection on embedded hardware to orchestrating AI agents through a full software pipeline.
 
-Here are some ideas to get you started:
+**What I'm working on:**
+- 🤖 **[ForgeAI](https://github.com/balamuralie56/ForgeAI)** — a multi-agent orchestration system that takes a project from planning through architecture, development, testing, documentation, and version control, running on local LLMs via Ollama. FastAPI backend, React frontend, 300+ passing tests.
+- 🏠 **[SVV-Estates](https://github.com/balamuralie56/SVV-Estates)** — a deployed real estate listing platform.
+- 📋 **[EOMS Lite](https://github.com/balamuralie56/eoms-lite)** — a QR-based exam invigilation and room-allocation SaaS product, feature-complete and ready for deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core stack:** Python · React Native · Docker · Supabase · Git
+**AI/ML:** YOLO-based object detection · Edge AI on NVIDIA Jetson · LLM orchestration (Ollama)
+
+📫 Reach me at balamuralie56@gmail.com — open to AI developer roles, open to relocation within India.
